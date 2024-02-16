@@ -141,14 +141,14 @@ Restrictions|Altitude Restrictions|Route
 -|-|-
 NONE|ANY ALTITUDE|NELIE3
 
-## Akron  ATCT
+# Akron  ATCT
 Callsign | Position | Radio Name | ID | Frequency
 -|-|-|-|-
 CAK_DEL | Delivery | Akron Canton Delivery | CD | 132.050
 CAK_GND | Ground | Akron Canton Ground | GC | 121.700
 CAK_TWR | Local | Akron Canton Tower | LC | 134.750
 
-### Clearances
+## Clearances
 - Maintain 3000 and to expect requested altitude 10 minutes after departure.
 - VFR Aicraft will be issued requested altitude except:
 1) Requests at or below 3000 will be issued:  
@@ -156,8 +156,8 @@ CAK_TWR | Local | Akron Canton Tower | LC | 134.750
 2) Requests higher than 3000 will be issued:  
 “Maintain 3000, expect higher with departure”
 
-### Ground Control
-#### General
+## Ground Control
+### General
 - GC is responsible for all movement areas on the airport except the runways, the
 northwest helipad, and the portion of the National Guard Taxiway designated as
 a movement area.
@@ -167,14 +167,14 @@ briefing)
 - GC will use the intersection departure distances in FIG. 4-1 for any aircraft that
 requests/or is willing to perform an intersection departure and shall be advised
 prior to taxi. ![](FIG_4_1.png)
-#### Taxiway Routes and Restrictions
+### Taxiway Routes and Restrictions
 - GC must protect the intersection of taxiways C and E for all aircraft that may use
 these movement areas to exit active runways.
 - GC may issue multiple runway crossing clearances in a single clearance for
 aircraft operating on Taxiway Kilo.
 
 
-## Buffalo ATCT / TRACON
+# Buffalo ATCT / TRACON
 Callsign | Position | ID | Frequency
 -|-|-|-
 BUF_DEL | Delivery | CD | 124.700
@@ -185,7 +185,7 @@ BUF_W_APP | West Radar | W | 126.500
 BUF_F_APP | Final Radar | F | 123.800
 ERI_APP | Erie Radar | X | 121.000
 
-### Position Combination
+## Position Combination
 TRACON positions should be opened and combined:
 1) BUF_E_APP
     - E/W combined. May use simplified BUF_APP callsign
@@ -195,7 +195,7 @@ another controller IAW 6.6.
     - Other positions may only be opened during events or with the permission of the
 ATM/DATM/TA/EC/CIC.
 
-### Issue Clearances / Amendments / Instructions
+## Issue Clearances / Amendments / Instructions
 CD shall issue ATC clearances to IFR and VFR Class C departures as followed:
 - IFR Departures: Assign 10,000ft or requested altitude if lower, and inform the
 aircraft to expect (requested altitude) 10 minutes after departure.
@@ -208,7 +208,7 @@ DME shall be assigned to WR.
 assigned to ER.
 - RV to first fix
 
-## Cleveland ATCT / TRACON
+# Cleveland ATCT / TRACON
 Callsign | Position | ID | Frequency
 -|-|-|-
 CLE_DEL | Delivery | CD | 125.050
@@ -223,7 +223,7 @@ CLE_E_APP | East Satellite | E | 125.500
 CLE_S_APP | South Satellite | S | 118.600
 MFD_APP | West Satellite | W | 124.200
 
-### Position Combination
+## Position Combination
 TRACON positions should be opened and combined:
 1. CLE_A_APP
 - A/F/D/R/N combined. May use simplified CLE_APP callsign
@@ -239,7 +239,7 @@ by another controller.
 Other positions may only be opened during events or with the permission of the
 ATM/DATM/TA/EC/CIC.
 
-### Issue Clearances / Amendments / Instruction / SIDS
+## Issue Clearances / Amendments / Instruction / SIDS
 
 CD shall issue ATC clearances to IFR and VFR Class B departures as followed:
 1. IFR Departures: Standard Instrument Departure Route (SID) should be utilized
@@ -270,7 +270,7 @@ be assigned DN (D) as their departure frequency.
 - Aircraft cleared via CAVVS# and KKIDS# shall be assigned DS (R) as their
 departure frequency.
 
-### SIDS
+## SIDS
 Direction | Name
 -|-
 South | CAVVS4
