@@ -7,10 +7,10 @@
 # Quick Notes
 ## LVZ (Wilkes Barre VOR)
 
-# Airspaces
+# Airspace Diagram
 ![](airspace.png)
 
-# Equipments
+# Equipment Code Suffixes
 ![](equipment.png)
 
 # Cleveland VOR's
