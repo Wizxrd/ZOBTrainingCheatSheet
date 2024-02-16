@@ -36,6 +36,12 @@ REC|Revloc|DME
 BUF|Buffalo|DME
 BUD|Buckeye|VOR
 
+# Airspaces
+![](airspace.png)
+
+# Equipments
+![](equipment.png)
+
 # Arrival Reference
 ## KBDR - Bridgeport
 Restrictions|Altitude Restrictions|Route
@@ -278,9 +284,3 @@ West | GTLKE4
 South East | KKIDS1
 North East | PFLYD1
 South West | ZAAPA5
-
-# Airspaces
-![](airspace.png)
-
-# Equipments
-![](equipment.png)
