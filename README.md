@@ -7,6 +7,12 @@
 # Quick Notes
 ## LVZ (Wilkes Barre VOR)
 
+# Airspaces
+![](airspace.png)
+
+# Equipments
+![](equipment.png)
+
 # Cleveland VOR's
 Ident|Name|Facility
 -|-|-
@@ -35,12 +41,6 @@ CIP|Clarion|DME
 REC|Revloc|DME
 BUF|Buffalo|DME
 BUD|Buckeye|VOR
-
-# Airspaces
-![](airspace.png)
-
-# Equipments
-![](equipment.png)
 
 # Arrival Reference
 ## KBDR - Bridgeport
