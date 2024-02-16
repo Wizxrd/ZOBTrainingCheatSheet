@@ -5,7 +5,7 @@
 ***Created:*** January 7th, 2024
 
 # Quick Notes
-- LVZ (Wilkes Barre VOR)
+## LVZ (Wilkes Barre VOR)
 
 # Cleveland VOR's
 Ident|Name|Facility
