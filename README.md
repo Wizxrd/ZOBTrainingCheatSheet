@@ -13,6 +13,117 @@
 # Equipment Code Suffixes
 ![](equipment.png)
 
+# SIDS
+- Radar Vector
+- Pilot Nav
+- Hybrid Nav
+
+# IFR CRAFT
+## Clearance Limit
+- Cleared to (limit) airport
+- Cleared to (NAVAID?fix/waypoint/intersection)
+- Ex: Cleared to Dulles airport
+
+### Routing No-SID
+- Cleared to pittsburgh airport, radar vectors akron, then as filed.
+- Cleared to pittsburgh airport, then as filed.
+
+### Routing Hybrid
+- AAL1234, cleared to Dulles airport, pittsburgh 5 departure, radar vectors morgantown, then as filed.
+- AAL1234, cleare to Dulles airport, pittsburgh 5 departure, then as filed.
+
+### Routing Pilot-Nav
+- JIA1234, cleared to Charlotte Airport, CAVVS4 departure, appleton transition, then as filed.
+
+### Routing End Pilot Nav
+- eja554, cleared to baltimore airport, ahmet4 departure, ellwood city transition, then as filed.
+
+### Routing End Radar Vectors
+- jbu234 cleare dto detroit airport, skorr4 departure, ynkee transition, radar vectors gayel, then as filed.
+
+### Obstacle Departure Prodcedure
+- (callsign), cleared to (clearance limit), departure via the (airport)(runway number) departure procedure
+- (callsign), cleared to (clearance limit), departure via the (procedure name) obstacle departure procedure
+- Ex: eja203, cleared to rochester airport, depart via the Burke Lakefront, runway 24r departure procedure
+
+## Altitude
+### Maintain
+- "maintain" when radar vectors, radar vector segment, no published crossing restrictions, radar vector segment prior to pilot nav with published crossing, or local procedure.
+- Ex: n56ep, cleared to erie airport, radar vectors Chardon, then as filed, maintain 4000
+- Ex: aal1326, cleared to lagaurdia airport, pittsburgh5 departure, then as filed, maintain 5000
+
+### Climb via SID
+- contains published crossing restrictions and top altitude.
+- Ex: edv5076, cleared to lexington airport, barii2 departure, sinkr transition, then as filed. climb via sid.
+
+### Climb via SID Except Maintain
+- cintains published crossing but filed below top altitude, top altitude designated by atc or local procedure.
+- Ex: lxj402, cleared to cleveland airport, lidds2 departure, then as filed. climb via sid, except maintain 7000.
+
+## Cruise/Filed Altitude
+- alt correct for dir of flight, any additional restrictions per local proc or LOA, expect final alt given in duration or distance
+- Ex: dal1148, cleared to atlanta airport, barii2 departure, sinkr4 transition, then as filed. climb via sid, expect fl 4000 10 min after departure.
+
+## Departure Freq
+- radar controllers working above (vatsim top-down) 
+- Ex: n56ep, cleared to rochester airport, as filed. maintain 6000, exp 13000 10 minutes after departure, departure freq 128.25
+
+## Squawk Code
+- discrete code assigned to all aircraft for ifr, designated at the end of craft.
+- Ex: n830lw, cleared to erie ottowa airport, radar vectors keatn, then as filed. maintain 4000, exp 8000 10 min after departure. departure frequency 118.6, squawk 6013.
+
+# VFR
+
+## Class D
+Without Flight Following:
+- do not require any additional instruction, taxi to appropriate dep runway, since no radar services once departed airspace
+
+With Flight Following:
+- necesary to issue (A)ltitude, (F)requency, and as necessary a possible (T)ransponder Code.
+
+Example:
+- n68df, maintain vfr at or below 3000, departure frequency 119.35
+
+VFR Traffic Pattern:
+- whilst remainaing in the class d issuance of altitude, frequency, or transponder is not required (unless SOP), taxi to runway as necessary.
+
+## Class C
+Without Flight Following + Below:
+- Unless SOP, FVR w/o ff with intentions to remain below class c, require approprtiate altitude to remain outside class c, and a transponder code (unless SOP)
+
+With Flight Following + In
+- Necessary to issue altutides, departure freq, and transponder.
+
+Example:
+- n56ep, maintain vfr at or below 2500, departure frequency 126.15, squawk 4142
+
+VFR Traffic Pattern:
+- recommended or mandatory per SOP, issue a transponder code.
+
+Example:
+- n830lw, maintain vfr squawk 5423
+
+## Class B
+- must be issues a clearance out of the airspace. Per the SOP, altitude, frequency, and transponder will be issues regardless of flight following.
+
+Example:
+- n553ma, cleared out of thr bravo airspace, maintain vfr at or below 2500, departure frequency 128.25, squawk 4352
+
+VFR Traffic Pattern:
+- remaining inside the class b shall be issued clearance to enter the bravo, in addition to transponder.
+ 
+Example:
+n135jm, cleared to enter the bravo airspace, maintain vfr, squwk 6425
+
+## R in Craft
+- SOP may indicate a heading assigned to all vfr, we use "fly heading"
+
+Example: n5844l, fly heading 330, maintain vfr at or below 3000, departure 118.3, squawk 5420.
+
+- Additionaly, may be routed via published vfr dep procedure.
+
+Example: n220er, cleared out of the bravo airspace via the west loch departure.
+
 # Cleveland VOR's
 Ident|Name|Facility
 -|-|-
