@@ -22,6 +22,21 @@
 - Pilot Nav
 - Hybrid Nav
 
+# [Airline Codes](https://en.wikipedia.org/wiki/List_of_airline_codes)
+ICAO|Callsign
+-|-
+AAL|American
+UAL|United
+AWE|Cactus
+COA|Continental
+RPA|Brickyard
+NKS|Spirit Wings
+DAL|Delta
+TPC|Pilot Club
+WAT|Walker
+GJS|Lindburgh
+
+
 # IFR CRAFT
 ## Clearance Limit
 - Cleared to (limit) airport
