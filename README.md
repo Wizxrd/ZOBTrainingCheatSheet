@@ -1,6 +1,4 @@
 # **ZOB Training Cheat Sheet**
-
-***Author:*** Nick Saker
   
 ***Created:*** January 7th, 2024
 
