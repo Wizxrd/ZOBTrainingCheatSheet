@@ -7,6 +7,12 @@
 # Quick Notes
 ## LVZ (Wilkes Barre VOR)
 
+# Fixes
+![](fix_phrase.png)
+
+# VOR's
+![](zob_vor.png)
+
 # Airspace Diagram
 ![](airspace.png)
 
@@ -123,35 +129,6 @@ Example: n5844l, fly heading 330, maintain vfr at or below 3000, departure 118.3
 - Additionaly, may be routed via published vfr dep procedure.
 
 Example: n220er, cleared out of the bravo airspace via the west loch departure.
-
-# Cleveland VOR's
-Ident|Name|Facility
--|-|-
-MBS|Saginaw|VORDME
-DXO|Detroit|VORDME
-CRL|Carleton|VORDME
-DJB|Dryer|VORDME
-CXR|Chardon|VORDME
-ACO|Akron|VORDME
-BSV|Briggs|VORDME
-AIR|Bellaire|VORDME
-HLG|Wheeling|VORDME
-JHW|Jamestown|VORDME
-MGW|Morgantown|VORDME
-JST|Johnstown|VORDME
-ROC|Rochester|VORDME
-GEE|Genesso|VORDME
-FNT|Flint|VORTAC
-FDC|Flag City|VORTAC
-MFD|Mansfield|VORTAC
-YNG|Youngstown|VORTAC
-ETG|Keating|VORTAC
-JXN|Jacson|DME
-JFN|Jefferson|DME
-CIP|Clarion|DME
-REC|Revloc|DME
-BUF|Buffalo|DME
-BUD|Buckeye|VOR
 
 # Arrival Reference
 ## KBDR - Bridgeport
