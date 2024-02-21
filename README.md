@@ -42,6 +42,7 @@ ASH|Air Shuttle
 PDT|Pedmont
 AWI|Air Wisconsin
 DPJ|Jet Card (Delta Private Jet)
+PAA| Clipper
 
 # VFR Quick Ref
 ## Class B
