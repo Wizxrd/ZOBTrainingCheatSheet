@@ -260,6 +260,9 @@ CAK_GND | Ground | Akron Canton Ground | GC | 121.700
 CAK_TWR | Local | Akron Canton Tower | LC | 134.750
 
 ## Clearances
+- When approach airspace is split, CD will issue 118.6 for aircraft entering S sector
+airspace and 125.5 for aircraft entering E sector airspace, as depicted in CLE
+7110.65N
 - Maintain 3000 and to expect requested altitude 10 minutes after departure.
 - VFR Aicraft will be issued requested altitude except:
 1) Requests at or below 3000 will be issued:  
