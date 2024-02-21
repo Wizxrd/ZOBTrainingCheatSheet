@@ -3,6 +3,7 @@
 ***Created:*** January 7th, 2024
 
 # Quick Notes
+## EXCEPT CHANGE ROUTE TO READ AFTER BUCKO (JOIN) ANTHM3 ARRIVAL
 ## LVZ (Wilkes Barre VOR)
 
 # Fixes
