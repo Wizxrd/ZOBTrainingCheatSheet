@@ -43,22 +43,36 @@ ASH|Air Shuttle
 ## Class B
 ### Flight Following
 - Clearance, Altitude, Frequency, Transponder
-### Example:
-- **STATION**, **AIRCRAFT**, requesting VFR clearance to the north.
-- **AIRCRAFT**, **STATION**, maintain VFR at or below **ALTITUDE**, call for taxi.
+#### Example:
+- **STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 2500.
+- **AIRCRAFT**, **STATION**, cleared out of Bravo airspace, maintain VFR at or below **ALTITUDE**, expect higher with departure, departure frequency **DEP FREQ**, squawk **BEACON**
 ### Without Flight Following
 - Clearance, Altitude, Transponder
+#### Example:
 - **STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 2500.
 - **AIRCRAFT**, **STATION**, cleared out of Bravo airspace, maintain VFR at or below **ALTITUDE**, squawk **BEACON**
+### Traffic Pattern:
+- Clearance, Altitude, Transponder
+#### Example:
+- **STATION**, **AIRCRAFT**, requesting VFR clearance for traffic work.
+- **AIRCRAFT**, **STATION**, cleared to enter **AIRPORT** Bravo airspace, maintain VFR, squawk **BEACON**
+
 ## Class C
 ### Flight Following
 - Altitude, Frequency, Transponder
+#### Example:
 - **STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 6500.
 - **AIRCRAFT**, **STATION**, maintain VFR at or below **ALTITUDE**, departure frequency **DEP FREQ**, squawk **BEACON**
 ### Without Flight Following
 - Altitude, Transponder
+#### Example:
 - **STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 6500.
 - **AIRCRAFT**, **STATION**, maintain VFR at or below **ALTITUDE**, squawk **BEACON**
+### Traffic Pattern
+- Altitude, Transponder
+- **STATION**, **AIRCRAFT**, requesting VFR clearance for traffic work.
+- **AIRCRAFT**, **STATION**, maintain VFR, squawk **BEACON**
+
 ## Class D
 ### Flight Following
 - Altitude, Frequency, Transponder
