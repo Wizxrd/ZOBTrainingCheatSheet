@@ -39,7 +39,22 @@ DCM|Dot Com
 JIA|Blue Streak
 ASH|Air Shuttle
 
-
+# VFR Quick Ref
+## Class B
+### Flight Following
+- Clearance, Altitude, Frequency, Transponder
+### Without Flight Following
+- Clearance, Altitude, Transponder
+## Class C
+### Flight Following
+- Altitude, Frequency, Transponder
+### Without Flight Following
+- Altitude, Transponder
+## Class D
+### Flight Following
+- Altitude, Frequency, Transponder
+### Without Flight Following
+- Altitude
 
 # IFR CRAFT
 ## Clearance Limit
@@ -100,12 +115,17 @@ ASH|Air Shuttle
 ## Class D
 Without Flight Following:
 - do not require any additional instruction, taxi to appropriate dep runway, since no radar services once departed airspace
+Example:
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the north.
+- ##AIRCRAFT##, ##STATION##, maintain VFR at or below ##ALTITUDE##, call for taxi.
 
 With Flight Following:
 - necesary to issue (A)ltitude, (F)requency, and as necessary a possible (T)ransponder Code.
 
 Example:
 - n68df, maintain vfr at or below 3000, departure frequency 119.35
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the north, at 4500.
+- ##AIRCRAFT##, ##STATION##, maintain VFR at or below ##ALTITUDE##, departure frequency ##DEP FREQ##, squawk ##BEACON##.
 
 VFR Traffic Pattern:
 - whilst remainaing in the class d issuance of altitude, frequency, or transponder is not required (unless SOP), taxi to runway as necessary.
@@ -114,11 +134,21 @@ VFR Traffic Pattern:
 Without Flight Following + Below:
 - Unless SOP, FVR w/o ff with intentions to remain below class c, require approprtiate altitude to remain outside class c, and a transponder code (unless SOP)
 
+Example:
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the west, at 6500.
+
+- ##AIRCRAFT##, ##STATION##, maintain VFR at or below ##ALTITUDE##, squawk ##BEACON##
+
 With Flight Following + In
 - Necessary to issue altutides, departure freq, and transponder.
 
 Example:
 - n56ep, maintain vfr at or below 2500, departure frequency 126.15, squawk 4142
+
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the west, at 6500.
+
+- ##AIRCRAFT##, ##STATION##, maintain VFR at or below ##ALTITUDE##, departure frequency ##DEP FREQ##, squawk ##BEACON##
+
 
 VFR Traffic Pattern:
 - recommended or mandatory per SOP, issue a transponder code.
@@ -136,7 +166,17 @@ VFR Traffic Pattern:
 - remaining inside the class b shall be issued clearance to enter the bravo, in addition to transponder.
  
 Example:
-n135jm, cleared to enter the bravo airspace, maintain vfr, squwk 6425
+- n135jm, cleared to enter the bravo airspace, maintain vfr, squwk 6425
+
+Example Flight Following:
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the west, at 2500.
+- ##AIRCRAFT##, ##STATION##, cleared out of Bravo airspace, maintain VFR at or below ##ALTITUDE##, expect higher with departure, departure frequency ##DEP FREQ##, squawk ##BEACON##
+
+Exmample No Flight Following:
+- ##STATION##, ##AIRCRAFT##, requesting VFR clearance to the west, at 2500.
+- ##AIRCRAFT##, ##STATION##, cleared out of Bravo airspace, maintain VFR at or below ##ALTITUDE##, squawk ##BEACON##
+
+
 
 ## R in Craft
 - SOP may indicate a heading assigned to all vfr, we use "fly heading"
