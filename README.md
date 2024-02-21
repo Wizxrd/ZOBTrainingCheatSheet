@@ -38,6 +38,9 @@ GJS|Lindburgh
 DCM|Dot Com
 JIA|Blue Streak
 ASH|Air Shuttle
+PDT|Pedmont
+AWI|Air Wisconsin
+DPJ|Jet Cargo (Delta Private Jet)
 
 # VFR Quick Ref
 ## Class B
