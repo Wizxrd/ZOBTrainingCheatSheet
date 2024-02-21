@@ -48,8 +48,8 @@ ASH|Air Shuttle
 - **AIRCRAFT**, **STATION**, maintain VFR at or below **ALTITUDE**, call for taxi.
 ### Without Flight Following
 - Clearance, Altitude, Transponder
-**STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 2500.
-**AIRCRAFT**, **STATION**, cleared out of Bravo airspace, maintain VFR at or below **ALTITUDE**, squawk **BEACON**
+- **STATION**, **AIRCRAFT**, requesting VFR clearance to the west, at 2500.
+- **AIRCRAFT**, **STATION**, cleared out of Bravo airspace, maintain VFR at or below **ALTITUDE**, squawk **BEACON**
 ## Class C
 ### Flight Following
 - Altitude, Frequency, Transponder
