@@ -1,0 +1,16 @@
+{
+    "KACY": {
+        "depart": ""
+        "ifVia": ""
+        "acType": {
+            "jets": {
+                "route": "HAR DQO V29 ENO SIE",
+                "alt": "AOB FL250",
+            },
+            "turboprop": {
+                "route": "HAR DQO V29 ENO SIE",
+                "alt": "AOB 17000",
+            }
+        }
+    }
+}
