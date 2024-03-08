@@ -3,6 +3,7 @@
 ***Created:*** January 7th, 2024
 
 # Quick Notes
+- EXCEPT CHANGE ROUTE TO READ AFTER (FIX) JOIN (STAR)
 - **LVZ** (Wilkes Barre VOR)
 - **BR** Mist
 - **GR** Hail
