@@ -3,8 +3,11 @@
 ***Created:*** January 7th, 2024
 
 # Quick Notes
-## EXCEPT CHANGE ROUTE TO READ AFTER (FIX) JOIN (STAR)
-## LVZ (Wilkes Barre VOR)
+- **LVZ** (Wilkes Barre VOR)
+- **BR** Mist
+- **GR** Hail
+- [Weather Matrix](http://www.moratech.com/aviation/metar-class/metar-pg9-ww.html#:~:text=Mist%20shall%20be%20coded%20as,shall%20be%20coded%20as%20HZ.)
+- Ceiling is lowest broken or overcast
 
 # Fixes
 ![](fix_phrase.png)
@@ -39,10 +42,6 @@ GJS|Lindburgh
 DCM|Dot Com
 JIA|Blue Streak
 ASH|Air Shuttle
-PDT|Pedmont
-AWI|Air Wisconsin
-DPJ|Jet Card (Delta Private Jet)
-PAA| Clipper
 
 # VFR Quick Ref
 ## Class B
@@ -193,6 +192,17 @@ Example: n5844l, fly heading 330, maintain vfr at or below 3000, departure 118.3
 - Additionaly, may be routed via published vfr dep procedure.
 
 Example: n220er, cleared out of the bravo airspace via the west loch departure.
+
+# Ground Control
+## Taxi Clearance
+*CALLSIGN*, runway *NUMBER*, taxi via *ROUTE* cross *RUNWAY* hold short *RUNWAY*
+
+## Runway Crossing
+*NUMBER* to cross runway *NUMBER* at *TAXIWAY*
+
+## Intersection Departure
+*CALLSIGN*, runway *NUMBER* at *TAXIWAY*, taxi via *ROUTE* cross *RUNWAY* hold short *RUNWAY*
+
 
 # Arrival Reference
 ## KBDR - Bridgeport
