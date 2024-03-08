@@ -43,6 +43,7 @@ GJS|Lindburgh
 DCM|Dot Com
 JIA|Blue Streak
 ASH|Air Shuttle
+EDV|Endeavour
 
 # VFR Quick Ref
 ## Class B
